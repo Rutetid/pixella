@@ -5,8 +5,8 @@ const Home: React.FC = () => {
 		<div className="container mx-auto pb-8">
 			<div className="w-full">
 				<img
-					src="../src/assets/homepage_v4.png"
-					alt="Popxel Homepage Banner"
+					src="/homepage_v4.png"
+					alt="Pixella Homepage Banner"
 					className="w-full object-cover"
 				/>
 			</div>
