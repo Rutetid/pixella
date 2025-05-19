@@ -11,13 +11,13 @@ const Navbar: React.FC = () => {
 
 	return (
 		<nav className="bg-[#ca6746] shadow-md relative">
-			<div className="container mx-auto px-5 text-white h-[70px]">
+			<div className="container mx-auto px-5 text-white h-[70px] py-3">
 				<div className="flex justify-between items-center">
 					<Link to="/">
 						<img
-							src="/popxel_logo.png"
-							alt="Popxel Stickers"
-							className="w-[72px] pt-1"
+							src="/pixella_logo.png"
+							alt="Pixella Stickers"
+							className="w-[100px]"
 						/>
 					</Link>
 
