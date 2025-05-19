@@ -24,7 +24,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
@@ -39,7 +39,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
@@ -54,7 +54,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
@@ -79,7 +79,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
@@ -97,7 +97,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
@@ -115,7 +115,7 @@ const Home: React.FC = () => {
 				<div className="bg-white rounded-lg shadow-md overflow-hidden">
 					<div className="py-3 sm:py-5 px-2 sm:pr-3 flex justify-center">
 						<img
-							src="../src/assets/anya.png"
+							src="/anya.png"
 							alt="Cute Anya Sticker"
 							className="object-contain h-40 sm:h-48 w-auto"
 						/>
